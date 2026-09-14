@@ -129,4 +129,4 @@ This fetches and exports cleaned CSVs (`economic.csv`, `health.csv`, `poverty.cs
 
 ## 📎 Data Source
 
-All data is sourced from the [World Bank Open Data API]([https://publicapi.dev/world-bank-api]) — a free, public API of global development indicators.
+All data is sourced from the [World Bank Open Data API](https://publicapi.dev/world-bank-api) — a free, public API of global development indicators.
