@@ -97,10 +97,9 @@ Two visuals go beyond what Power BI's native charts can do, built directly with 
 ## 📁 Repo Structure
 
 ```
-├── data_pipeline.py       # Full ETL: fetch, clean, merge, export World Bank data
-├── visuals.py             # Correlation heatmap + regression scatter plot (Python-in-Power BI)
-├── requirements.txt       # Python dependencies
-├── screenshots/
+├── data_pipeline.py       # Full ETL: fetch, clean, merge, export World Bank data             
+├── requirements.txt       # Correlation heatmap + regression scatter plot (Python-in-Power BI)
+├── screenshots/           
 │   ├── dashboard_overview.png
 │   └── health_insights.png
 └── README.md
@@ -130,4 +129,4 @@ This fetches and exports cleaned CSVs (`economic.csv`, `health.csv`, `poverty.cs
 
 ## 📎 Data Source
 
-All data is sourced from the [World Bank Open Data API](https://data.worldbank.org/) — a free, public API of global development indicators.
+All data is sourced from the [World Bank Open Data API]([https://data.worldbank.org/](https://publicapi.dev/world-bank-api)) — a free, public API of global development indicators.
